@@ -1,0 +1,7 @@
+/node_modules
+/.vs
+/package-lock.json
+/*.tsbuildinfo
+
+*.js
+*.d.ts

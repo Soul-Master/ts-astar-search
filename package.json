@@ -1,0 +1,20 @@
+{
+  "name": "the-way-of-rider",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "watch": "tsc -w -p .",
+    "input1": "node index in-1.txt",
+    "input2": "node index in-2.txt",
+    "input3": "node index in-3.txt",
+    "input4": "node index in-4.txt",
+    "input5": "node index in-5.txt",
+    "test:debug": "node --inspect-brk index in-1.txt"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "@types/node": "^18.15.11"
+  }
+}
