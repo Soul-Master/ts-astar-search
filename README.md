@@ -1,4 +1,4 @@
-# The Way of Rider
+# A* search for TypeScript
 
 After checkout, please run the following commands.
 ```
