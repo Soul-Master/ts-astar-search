@@ -16,3 +16,6 @@ node index in-5.txt
 ```
 
 ![image](https://user-images.githubusercontent.com/442046/233188303-e61371fc-2a73-4d38-b6b5-2b86c7ac900d.png)
+
+Demo on StackBlitz
+https://stackblitz.com/edit/node-3kbhxs
